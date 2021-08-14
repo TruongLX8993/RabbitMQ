@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "E+1/9Ozcjtk2IHdY4iURjORNGHRctjvBM35B6hyip9rZqFyyAgXTEB0cL5tBsi8HptUidWZmsclN4ID7pBBQdw==",
+  "dgSpecHash": "ICPXSZU54xlY164GZuzV8NW0NNaCi9Hsecdw5oSfPSV64u/QZBwWoXU+juyx4WL5GaBqfEXqf7Lo20f8k4h3NA==",
   "success": true,
-  "projectFilePath": "/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/RabbitMQConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\RabbitMQ\\RabbitMQ\\RabbitMQConsoleApp\\RabbitMQConsoleApp.csproj",
   "expectedPackageFiles": [
-    "/Users/truonglx/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
-    "/Users/truonglx/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
-    "/Users/truonglx/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
-    "/Users/truonglx/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+    "C:\\Users\\Dell\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }

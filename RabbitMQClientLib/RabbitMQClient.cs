@@ -71,6 +71,15 @@ namespace RabbitMQClientLib
             return new RabbitMqSimpleSender(_channel, exchangeName, queueName);
         }
 
+        public void BindHandler(string baseQueueName, int numberQueue, IAsyncRabbitMQHandlerFactory handlerFactory)
+        {
+            for (var i = 0; i < numberQueue; i++)
+            {
+                var queueName = $"{baseQueueName}-{i}";
+                BindHandler(queueName,handlerFactory.Create());
+            }
+        }
+
         public void BindHandler(string queueName, params IAsyncRabbitMQHandler[] handlers)
         {
             var consumer = new AsyncEventingBasicConsumer(_channel);

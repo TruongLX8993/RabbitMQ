@@ -7,3 +7,12 @@
 /Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQClientLib/obj/Debug/netcoreapp3.1/RabbitMQClientLib.csproj.CoreCompileInputs.cache
 /Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQClientLib/obj/Debug/netcoreapp3.1/RabbitMQClientLib.dll
 /Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQClientLib/obj/Debug/netcoreapp3.1/RabbitMQClientLib.pdb
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\bin\Debug\netcoreapp3.1\RabbitMQClientLib.deps.json
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\bin\Debug\netcoreapp3.1\RabbitMQClientLib.dll
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\bin\Debug\netcoreapp3.1\RabbitMQClientLib.pdb
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.AssemblyInfo.cs
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.dll
+C:\Users\Dell\Desktop\RabbitMQ\RabbitMQ\RabbitMQClientLib\obj\Debug\netcoreapp3.1\RabbitMQClientLib.pdb

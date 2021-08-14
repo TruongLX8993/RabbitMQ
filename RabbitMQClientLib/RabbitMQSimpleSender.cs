@@ -1,5 +1,4 @@
 using System.Text;
-using System.Text.Unicode;
 using RabbitMQ.Client;
 
 namespace RabbitMQClientLib
