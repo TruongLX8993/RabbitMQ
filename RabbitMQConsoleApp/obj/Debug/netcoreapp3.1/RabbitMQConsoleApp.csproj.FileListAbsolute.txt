@@ -1,0 +1,17 @@
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQConsoleApp.deps.json
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQConsoleApp.runtimeconfig.json
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQConsoleApp.runtimeconfig.dev.json
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQConsoleApp.dll
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQConsoleApp.pdb
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQClientLib.dll
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/bin/Debug/netcoreapp3.1/RabbitMQClientLib.pdb
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.csproj.AssemblyReference.cache
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.AssemblyInfoInputs.cache
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.AssemblyInfo.cs
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.csproj.CoreCompileInputs.cache
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.csproj.CopyComplete
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.dll
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.pdb
+/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQConsoleApp/obj/Debug/netcoreapp3.1/RabbitMQConsoleApp.genruntimeconfig.cache
