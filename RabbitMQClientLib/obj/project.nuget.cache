@@ -1,16 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "ZWwaghgkC0PEsqPpT8zUwds+8ofm/QFeJHDt5WHEDv2DXFQJHk1qCQuBPKyRn1ODqCxoqn1p/0sHwbza6Q0ELA==",
+  "dgSpecHash": "gwuNomzlTcaCXWm9gM5PTlcF+OBu47BGHvJk0L7bOIMx9FB76TmT56a7RNaHYWP3mDbigfJYjQ8uSn++v+HDAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\RabbitMQ\\RabbitMQ\\RabbitMQClientLib\\RabbitMQClientLib.csproj",
+  "projectFilePath": "/Users/truonglx/RiderProjects/RabbitMQClient/RabbitMQClientLib/RabbitMQClientLib.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Dell\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
-    "C:\\Users\\Dell\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "/Users/truonglx/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.netframework.referenceassemblies.net461/1.0.0/microsoft.netframework.referenceassemblies.net461.1.0.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.3/system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/truonglx/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
   ],
   "logs": []
 }
